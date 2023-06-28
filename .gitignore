@@ -1,6 +1,6 @@
-__pycache__/
+__pycache__
 .Python
 .cache
-.pytest_cache/
+.pytest_cache
 venv
-.idea/
+.idea
